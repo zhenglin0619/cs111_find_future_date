@@ -2,8 +2,6 @@
 
 A small Python `Date` class for working with calendar dates. It stores a month, day, and year, and includes methods for advancing a date, checking leap years, counting days between dates, and finding the day of the week.
 
-This project was created for Computer Science 111.
-
 ## Requirements
 
 - Python 3
